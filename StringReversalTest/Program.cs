@@ -13,7 +13,7 @@ namespace StringReversalTest
         static void Main(string[] args)
         {
             //Read a string from the console
-            Console.WriteLine("Enter Keegan's current favorite word: ");
+            Console.WriteLine("Enter any string you want: ");
             //Assign the user's entry to a variable
             string userInput = Console.ReadLine();
             //Show the string to the user

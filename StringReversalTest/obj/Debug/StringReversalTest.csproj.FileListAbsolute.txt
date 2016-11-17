@@ -1,6 +1,0 @@
-c:\users\joe flanigan\documents\visual studio 2015\Projects\StringReversalTest\StringReversalTest\bin\Debug\StringReversalTest.exe.config
-c:\users\joe flanigan\documents\visual studio 2015\Projects\StringReversalTest\StringReversalTest\bin\Debug\StringReversalTest.exe
-c:\users\joe flanigan\documents\visual studio 2015\Projects\StringReversalTest\StringReversalTest\bin\Debug\StringReversalTest.pdb
-c:\users\joe flanigan\documents\visual studio 2015\Projects\StringReversalTest\StringReversalTest\obj\Debug\StringReversalTest.csprojResolveAssemblyReference.cache
-c:\users\joe flanigan\documents\visual studio 2015\Projects\StringReversalTest\StringReversalTest\obj\Debug\StringReversalTest.exe
-c:\users\joe flanigan\documents\visual studio 2015\Projects\StringReversalTest\StringReversalTest\obj\Debug\StringReversalTest.pdb
